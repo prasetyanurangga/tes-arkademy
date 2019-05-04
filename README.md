@@ -4,11 +4,10 @@
 * Bahasa Pemrograman Yang digunakan PHP
 * Database yang digunakan yaitu database MySQL
 
-**Software yang digunakan**
+**Software yang Dibutuhkan**
 * [XAMPP](https://www.apachefriends.org/index.html)
-* [Php Composer](https://getcomposer.org/)
 
-Step to reproduce:
+Langkah-langkah Penggunaan:
 
 - Install XAMPP
 - Buka Jalankan Module Apache dan Mysql yang ada pada XAMPP
