@@ -17,3 +17,6 @@ Step to reproduce:
 - Clone: __https://github.com/prasetyanurangga/tes-arkademy.git__
 - Import file __earned_vote.sql__ ke database earned_vote yang telah dibuat tadi
 - Buka browser, kemudian buka __localhost__
+
+**Screenshot Tampilan Soal Nomor 6**
+![alt text](https://github.com/prasetyanurangga/tes-arkademy/blob/master/screenshot.png)
